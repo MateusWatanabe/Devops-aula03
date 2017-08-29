@@ -1,5 +1,5 @@
 # Ferramentas de controle de versão
-#GitHub
+#Git
 #SubVersion
 #CVS
 
